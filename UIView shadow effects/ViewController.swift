@@ -5,7 +5,7 @@
 //  Created by Salah Amassi on 24/12/2020.
 //
 
-// This project it's just playing around shadow based on https://www.hackingwithswift.com/articles/155/advanced-uiview-shadow-effects-using-shadowpath all code and comment's here blong to Paul Hudson, im just trygin to put it togther and playing around it to get full understand shadow and shadow path.
+// This project it's just playing around shadow based on https://www.hackingwithswift.com/articles/155/advanced-uiview-shadow-effects-using-shadowpath all code and comment's here belong to Paul Hudson, I'm just trying to put it together and playing around it to get a full understand of shadow and shadow path.
 
 import UIKit
 
